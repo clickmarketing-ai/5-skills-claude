@@ -1,5 +1,7 @@
 # 5 skills para o Claude Code
 
+> **Este guia mudou de casa.** Agora ele fica no [Kit IA](https://github.com/felipeoliveira-ai/kit-ia/tree/main/5-skills-claude), junto com os guias dos outros vídeos. Esta página continua no ar, mas as atualizações vão para lá.
+
 Manual em português para instalar cada uma, na ordem do vídeo. Precisa do [Claude Code](https://code.claude.com/docs) instalado.
 
 Skill é um arquivo de instruções: instalou, o Claude passa a trabalhar daquele jeito.
